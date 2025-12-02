@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3ae37ce8abc84b4c87516d754a2cca5, type: 3}
+  m_Name: Fighter
+  m_EditorClassIdentifier: Assembly-CSharp::Personajes
+  personajeJugable: {fileID: 2740608498868498407, guid: 0a0496cc4a80d4842abc6d50711ea0b9, type: 3}
+  imagen: {fileID: 4723107735738678597, guid: 3335ff25a1690504797c8caf0069365b, type: 3}
+  nombre: Fighter
