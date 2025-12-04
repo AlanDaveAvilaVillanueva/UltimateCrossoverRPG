@@ -12,11 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ccc02389164346f418b92529d8b6ef7c, type: 3}
   m_Name: Data
   m_EditorClassIdentifier: Assembly-CSharp::CharacterData
-  id: 0
+  id: 1
   characterName: Fighter
   maxHP: 0
   attack: 0
   defense: 0
   speed: 0
-  icon: {fileID: 0}
+  icon: {fileID: 3508615336803528558, guid: 3d88bbd23e5b34b428e09f07a2ebce3d, type: 3}
   animator: {fileID: 0}

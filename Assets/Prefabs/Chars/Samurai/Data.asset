@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ccc02389164346f418b92529d8b6ef7c, type: 3}
   m_Name: Data
   m_EditorClassIdentifier: Assembly-CSharp::CharacterData
-  id: 0
+  id: 2
   characterName: Samurai
   maxHP: 0
   attack: 0
