@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3ae37ce8abc84b4c87516d754a2cca5, type: 3}
+  m_Name: Shinobi
+  m_EditorClassIdentifier: Assembly-CSharp::Personajes
+  personajeJugable: {fileID: 5382706547294801217, guid: c7df802b37e11a640a66af4a9e68aec2, type: 3}
+  imagen: {fileID: -3319512814298159705, guid: 4415837070eea4b438e815df03ac0551, type: 3}
+  nombre: Shinobi

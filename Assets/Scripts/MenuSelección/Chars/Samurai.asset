@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3ae37ce8abc84b4c87516d754a2cca5, type: 3}
+  m_Name: Samurai
+  m_EditorClassIdentifier: Assembly-CSharp::Personajes
+  personajeJugable: {fileID: 958012530858761068, guid: 5efe2b36d9800c74083e37c18c036171, type: 3}
+  imagen: {fileID: 1184227297463268781, guid: 77f0471f52141124a92bd59cc92ed8cd, type: 3}
+  nombre: Samurai
